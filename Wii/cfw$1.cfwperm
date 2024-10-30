@@ -1,0 +1,9 @@
+cfwperms="0001,0002,0003,0004,0005,0006,0007"
+  0001=read
+  0002=write
+  0003=download
+  0004=settings
+  0005=internet
+  0006=delete
+  0007=system
+saveAs=cfwperms1.cfwperms
