@@ -1,6 +1,6 @@
-
-# .v4p backup files
-*~.xml
-
-# Dynamic plugins .dll
-bin/
+# Wii CFW Permissions file format
+*.cfwperm
+# Wii U CFW Permissions file format
+*.cp1f
+# Wii A Setup file format
+*.wasetup
